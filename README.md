@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ousman0
-- 👀 I’m interested in Blockchain Development
-- 🌱 I’m currently learning fullstack web development
+- 👋 Hi, I’m Ousman.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently looking for an job/internship for the role of frontend developer or fullstack web development.
 - 💞️ I’m looking to collaborate on javascript,dapps,etc.
 - 📫 How to reach me linkedin.com/in/ousman-mohammad-986a7024b
 
